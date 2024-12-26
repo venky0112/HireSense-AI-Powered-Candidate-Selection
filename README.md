@@ -1,4 +1,4 @@
-### README for HireSense: AI-Powered Candidate Selection
+# HireSense: AI-Powered Candidate Selection
 
 ---
 
