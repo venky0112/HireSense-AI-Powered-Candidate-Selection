@@ -1,6 +1,6 @@
 # HireSense: AI-Powered Candidate Selection
 
----
+
 
 ## Overview
 **HireSense** is a machine learning project designed to streamline candidate selection processes for HR teams. By leveraging **multivariate linear regression**, the model evaluates candidates based on their **experience**, **written test scores**, and **personal interview scores** to predict their suitability for a given role.
